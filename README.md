@@ -1,6 +1,6 @@
 ![Header](./erenbgt-header-image.png)
 
-<h3 align="center">Young Game Developer from Turkey</h3>
+<h3 align="center">Game Developer from Turkey</h3>
 
 - 👨‍💻 All of my projects are available at [erenbgt.itch.io](erenbgt.itch.io)
 
